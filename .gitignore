@@ -19,3 +19,15 @@
 
 # Go workspace file
 go.work
+
+*.prof
+*.pprof
+*.log
+*.gz
+*.tar
+/vendor/
+.idea/
+.vscode/
+*.iml
+/.idea/
+/.vscode/
